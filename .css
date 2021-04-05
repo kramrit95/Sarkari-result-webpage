@@ -1,0 +1,316 @@
+ *{
+    padding:0px;
+    margin:0px;
+    display-flex:0px;
+}
+body {
+    background-color:white;
+}
+.container1  {
+    width:100%;
+    height:150px;
+    background-color: red;
+    border:2px solid red;
+    padding-top:0px;
+    
+    
+    
+    
+}
+h1{
+    text-align:center ;
+    color:white;
+    
+    
+    
+}
+
+   .container2{
+       width:100%;
+       height:30px;
+       border:2px solid black;
+       background-color:black;
+       padding-top:10px;
+       
+    
+   }
+   
+ a:link{
+ 
+       
+       color: white;
+       margin-right:6px;
+       
+   }
+   .container3{
+       
+       width:80%;
+       height:270px;
+       margin-left:32px;
+       margin-top:30px;
+       
+   }
+   .container4{
+       width:60%;
+       height:30px;
+    
+       margin-left:75px;
+   }
+   .container5{
+       width:50%;
+       height:50px;
+       
+       margin-left:80px;
+       padding-left:10px;
+       
+       color:white;
+       
+  
+   }
+  .facebook{
+      color:white;
+      padding-left:7px;
+      background-color:blue;
+  }
+   
+   .c6{
+       border:2px solid white;
+       width:130px;
+       height:50px;
+       background-color:orange;
+       
+   }
+   .f2{
+       color:white;
+       
+   }
+   
+   .c7{
+       border:2px solid white;
+       width:220px;
+       height:50px;
+       margin-left:130px;
+       margin-top:-40px;
+       background-color:blue;
+       
+       
+       
+       
+       
+       
+       
+       
+   }
+   .f3{
+       color:white;
+       padding-left:20px;
+       padding-top:10px;
+   }
+   
+   
+   
+   
+   .c8{
+       border:2px solid white;
+       width:130px;
+       height:50px;
+       background-color:red;
+       
+   }
+   .f4{
+       color:white;
+       
+   }
+   
+   .c9{
+       border:2px solid white;
+       width:220px;
+       height:50px;
+       margin-left:130px;
+       margin-top:-40px;
+       background-color:green;
+       
+       
+       
+       
+       
+       
+       
+       
+   }
+   .f5{
+       color:white;
+       padding-left:20px;
+       padding-top:10px;
+   }
+   .c10{
+       border:2px solid red;
+       width:160px;
+       height:300px;
+       margin-top:90px;
+       margin-bottom:0px;
+   }
+   .f9{
+       font-size:20px;
+       color:white;
+       background-color:red;
+       padding-left:25px;
+   }
+   .c11{
+       border:2px solid red;
+       width:185px;
+       height:300px;
+       margin-left:167px;
+       margin-top:-273px;
+       
+       
+   }
+   .f10{
+       font-size:20px;
+       color:white;
+       background-color:red;
+       padding-left:25px;
+       
+       
+   }
+   
+   
+   
+    .c12{
+       border:2px solid red;
+       width:160px;
+       height:300px;
+       margin-top:90px;
+       margin-bottom:0px;
+       
+   }
+   .f11{
+       font-size:20px;
+       color:white;
+       background-color:red;
+       padding-left:25px;
+   }
+   .c13{
+       border:2px solid red;
+       width:185px;
+       height:300px;
+       margin-left:167px;
+       margin-top:-272px;
+       
+       
+   }
+   .f12{
+       font-size:20px;
+       color:white;
+       background-color:red;
+       padding-left:25px;
+       
+       
+   }
+   .c14{
+       border:2px solid yellow;
+       width:150px;
+       height:15px;
+       margin-left:80px;
+   }
+   .f13{
+   color:black;
+    background-color:Yellow;
+       
+   }
+   .c15{
+       border:2px solid red;
+       width:300px;
+       height:400px;
+       margin-left:30px;
+   }
+   .c16{
+       border:2px solid red;
+       width:300px;
+       height:330px;
+       margin-left:30px;
+   }
+   .f20{
+       color:white;
+       background-color:red;
+       padding-left:50px;
+   }
+   .c17{
+   border:2px solid red;
+   width:300px;
+   height:150px;
+   margin-left:30px;
+       
+   }
+   .f21{
+       color:white;
+       background-color:red;
+       padding-left:80px;
+       
+   }
+   .c18{
+       border:2px solid red;
+       width:300px;
+       height:270px;
+       margin-left:30px;
+       
+   }
+   .f22{ 
+   color:white;
+   background-color:red;
+   padding-left:70px;
+       
+   }
+   
+   .c19{
+   border:2px solid red;
+   width:300px;
+   
+   height:240px;
+   margin-left:30px;
+       
+   }
+   .f23{
+   color:white;
+   background-color:red;
+   padding-left:70px;
+       
+   }
+   .c20{
+       border:2px solid red;
+       width:300px;
+       height:400px;
+       margin-left:30px;
+       
+   }
+   .f24{
+       color:white;
+       background-color:red;
+       padding-left:70;
+       
+   }
+   footer{
+       color:green;
+       
+    
+   }
+   footer
+   
+   
+   
+
+   
+
+
+    
+   
+   
+   
+   
+   
+   
+
+   
+
+
+    
